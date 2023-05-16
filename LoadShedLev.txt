@@ -1,0 +1,3 @@
+Loadshed lev 1: 10% < SOC < 15%
+Loadshed lev 2: 3% < SOC < 10%
+Loadshed lev 3: SOC <= 0.1%
